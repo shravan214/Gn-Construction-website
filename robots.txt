@@ -1,0 +1,55 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /account/
+
+User-Agent: Googlebot
+Allow: /
+
+User-Agent: Googlebot-Image
+Allow: /
+
+User-Agent: Bingbot
+Allow: /
+
+User-Agent: Slurp
+Allow: /
+
+User-Agent: DuckDuckBot
+Allow: /
+
+User-Agent: Baiduspider
+Allow: /
+
+User-Agent: PerplexityBot
+Allow: /
+
+User-Agent: OAI-SearchBot
+Allow: /
+
+User-Agent: ChatGPT-User
+Allow: /
+
+User-Agent: GoogleOther
+Allow: /
+
+User-Agent: GPTBot
+Allow: /
+
+User-Agent: ClaudeBot
+Allow: /
+
+User-Agent: anthropic-ai
+Allow: /
+
+User-Agent: Google-Extended
+Allow: /
+
+User-Agent: Applebot-Extended
+Allow: /
+
+Host: https://arsahomes.in
+Sitemap: https://arsahomes.in/sitemap.xml
+Sitemap: https://arsahomes.in/news-sitemap.xml
+Sitemap: https://arsahomes.in/mr/sitemap.xml
